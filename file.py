@@ -1,0 +1,5 @@
+print("Wellcome to My Project ")
+print("as user:")
+name=input("Enter your name  :")
+email=input("Enter your Email:")
+print("Hi ",name," now you can use our App")
